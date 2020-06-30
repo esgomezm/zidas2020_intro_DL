@@ -15,7 +15,7 @@ A first introduction to deep learning for bioimage analysis.
 - [Morpholib](https://imagej.net/MorphoLibJ) plugin
 
 ## Data
-
+Download the data for the exercises [here](https://github.com/esgomezm/zidas2020_intro_DL/releases/download/data/Data.zip): https://github.com/esgomezm/zidas2020_intro_DL/releases/download/data/Data.zip
 ## Resources
 
 - Scientific Community Image Forum: https://forum.image.sc/
