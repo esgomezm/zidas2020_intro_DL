@@ -5,9 +5,9 @@ A first introduction to deep learning for bioimage analysis.
 
 ## Slides for the session
   
-[Google slides of Lecture 1](https://docs.google.com/presentation/d/1kWiIW5Z7I-bWbyeyWfgm_pOgayjv6TUn7drhI5LaeNY/edit?usp=sharing)
+[Google slides of Lecture 1](https://github.com/esgomezm/zidas2020_intro_DL/releases/download/slides/ZIDAS.2020.ML_DL.Intro.pdf)
  
-[Google slides of Practice 1](https://docs.google.com/presentation/d/1VJlxm4Mkwkd5NVZvV1FvkL5_UgaIIUr07a7_rrN1LR8/edit?usp=sharing)
+[Google slides of Practice 1](https://github.com/esgomezm/zidas2020_intro_DL/releases/download/slides/ZIDAS.2020.Applications.pdf)
 
 ## Software requirements:
 - The bundled version of [Fiji](https://imagej.net/) provided in the course.
